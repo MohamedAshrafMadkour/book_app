@@ -12,4 +12,3 @@
 - 🌐 **Launch URL**: Open book purchase links in a browser using `url_launcher`.
 - 🎬 **Animations**: Smooth transitions between screens for a modern UI feel.
 - 🖼️ **Splash Screen**: Custom splash screen on app startup.
-
